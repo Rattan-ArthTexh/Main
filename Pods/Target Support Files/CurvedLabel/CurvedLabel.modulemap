@@ -1,0 +1,6 @@
+framework module CurvedLabel {
+  umbrella header "CurvedLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

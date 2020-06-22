@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (4.9.1)
+  - CurvedLabel (0.1.0)
+  - GoogleMaps (3.7.0):
+    - GoogleMaps/Maps (= 3.7.0)
+  - GoogleMaps/Base (3.7.0)
+  - GoogleMaps/Maps (3.7.0):
+    - GoogleMaps/Base
+  - Realm (4.3.2):
+    - Realm/Headers (= 4.3.2)
+  - Realm/Headers (4.3.2)
+  - RealmSwift (4.3.2):
+    - Realm (= 4.3.2)
+  - Stripe (19.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - CurvedLabel
+  - GoogleMaps
+  - RealmSwift
+  - Stripe
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CurvedLabel
+    - GoogleMaps
+    - Realm
+    - RealmSwift
+    - Stripe
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  CurvedLabel: b8556c3e60c55080a8187e9694f7d81173d97441
+  GoogleMaps: 55da829c68aa931f3ae982b9e341cc2f3d89c587
+  Realm: 5e92902e2875dff4bb0fd02f67bb737c3d5db2bc
+  RealmSwift: 9a360fc7bae04fc2e308a34fbd899d5faa2d6b22
+  Stripe: 03313f9520a0786e2c00d9a7a2672c11e08821af
+
+PODFILE CHECKSUM: 76380c63e6c202efc893ec04745b8381627f71d1
+
+COCOAPODS: 1.8.4
