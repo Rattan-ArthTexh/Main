@@ -16,7 +16,6 @@
 		CF99D05E23DA01C400D59000 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF99D05C23DA01C400D59000 /* Main.storyboard */; };
 		CF99D06023DA01C500D59000 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF99D05F23DA01C500D59000 /* Assets.xcassets */; };
 		CF99D06323DA01C500D59000 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF99D06123DA01C500D59000 /* LaunchScreen.storyboard */; };
-		CFE9491424A08578004F4C82 /* SubBranchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFE9491324A08578004F4C82 /* SubBranchViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,7 +32,6 @@
 		CF99D05F23DA01C500D59000 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CF99D06223DA01C500D59000 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CF99D06423DA01C500D59000 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CFE9491324A08578004F4C82 /* SubBranchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubBranchViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,7 +109,6 @@
 		CFE9491224A0855E004F4C82 /* SubBrach */ = {
 			isa = PBXGroup;
 			children = (
-				CFE9491324A08578004F4C82 /* SubBranchViewController.swift */,
 			);
 			path = SubBrach;
 			sourceTree = "<group>";
@@ -250,7 +247,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				CF68445724649B8100979B2B /* FirstViewController.swift in Sources */,
-				CFE9491424A08578004F4C82 /* SubBranchViewController.swift in Sources */,
 				CF7C910A244B48330009719A /* MyApiClient.swift in Sources */,
 				CF99D05B23DA01C400D59000 /* ViewController.swift in Sources */,
 				CF99D05723DA01C400D59000 /* AppDelegate.swift in Sources */,
